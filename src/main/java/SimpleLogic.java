@@ -5,7 +5,7 @@ public class SimpleLogic {
             System.out.println("Несовершеннолетний клиент");
             return false;
         } else {
-            System.out.println("Совершеннолетний");
+            System.out.println("Совершеннолетний клиент");
             return true;
         }
     }
