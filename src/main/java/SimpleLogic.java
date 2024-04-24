@@ -1,4 +1,5 @@
 public class SimpleLogic {
+
     boolean isAdult(Integer age) {
         if (age < 18) {
             System.out.println("Несовершеннолетний клиент");
@@ -8,4 +9,5 @@ public class SimpleLogic {
             return true;
         }
     }
+
 }
