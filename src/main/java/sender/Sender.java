@@ -1,6 +1,6 @@
 package sender;
 
-public class Sender {
+public class Sen {
 
     private final Validator validator;
     private final MailClient mailClient;
